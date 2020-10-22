@@ -1,0 +1,11 @@
+{
+  "name": "event_hook",
+  "version": "1.0.0",
+  "description": "pre traffic hook in NodeJS",
+  "main": "preTrafficHook.js",
+  "author": "SAM CLI",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.648.0"
+  }
+}
